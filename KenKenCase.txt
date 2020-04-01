@@ -1,0 +1,23 @@
+ABBCCDEAAFGGDEHHFIIJKLMFNNJKLMOPNQRSTOPUQRSTTPUVV
+A 168 x
+B 2 /
+C 4 -
+D 2 -
+E 3 /
+F 84 x
+G 4 -
+H 2 /
+I 7 +
+J 11 +
+K 6 +
+L 4 -
+M 9 +
+N 24 x
+O 6 x
+P 11 +
+Q 3 /
+R 11 +
+S 6 x
+T 100 x
+U 3 -
+V 3 /
